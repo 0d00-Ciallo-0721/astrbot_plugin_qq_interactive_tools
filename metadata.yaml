@@ -1,0 +1,5 @@
+name: astrbot-plugin_qq_interactive_tools
+desc: "QQ专属互动的主动函数工具集（llm_tools）。"
+author: "和泉智宏"
+version: "1.0.0"
+repo: "https://github.com/0d00-Ciallo-0721/astrbot_plugin_qq_interactive_tools"
