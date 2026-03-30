@@ -4,7 +4,7 @@
 
 > 打破纯文本的次元壁，赋予 AstrBot 灵魂深处的拟人化物理交互能力。
 
-`qq_interactive_tools` 是一个专为 AstrBot 打造的全局 QQ 动作交互扩展插件。通过将astrmai( https://github.com/0d00-Ciallo-0721/astrbot_plugin_astrmaimai)认知生态，经过深度解耦与提纯，将7个最高频的QQ专属互动动作开放给全局LLM调用。
+`qq_interactive_tools` 是一个专为 AstrBot 打造的全局 QQ 动作交互扩展插件。通过将astrmai( https://github.com/0d00-Ciallo-0721/astrbot_plugin_astrmaimai) ,的认知生态经过深度解耦与提纯，将7个最高频的QQ专属互动动作开放给全局LLM调用。
 
 ---
 
